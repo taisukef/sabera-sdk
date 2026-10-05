@@ -5,6 +5,8 @@ nav_order: 9
 
 # ドキュメントの作り方
 
+[日本語](authoring.md) | [English](authoring_en.md)
+
 このサイトの構成と、ページを増やすときの手順。
 
 ## 置き場所

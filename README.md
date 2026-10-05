@@ -1,5 +1,7 @@
 # Sabera App SDK Samples
 
+[日本語](README.md) | [English](README_en.md)
+
 Sabera App SDK の使い方を示すサンプルアプリ集。
 
 ## サンプル一覧

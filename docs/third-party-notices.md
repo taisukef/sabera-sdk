@@ -5,6 +5,8 @@ nav_order: 8
 
 # サードパーティ表記
 
+[日本語](third-party-notices.md) | [English](third-party-notices_en.md)
+
 SDK の配布物に含まれる第三者のソフトウェアと、アプリ側に及ぶ表記義務。
 
 ## Opus (libopus)

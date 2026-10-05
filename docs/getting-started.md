@@ -5,6 +5,8 @@ nav_order: 2
 
 # Getting Started
 
+[日本語](getting-started.md) | [English](getting-started_en.md)
+
 SABERA App SDK を使ってSABERAグラスと通信するアプリを作る手順。 SABERA
 SDKはネイティブAPIとして提供している。
 

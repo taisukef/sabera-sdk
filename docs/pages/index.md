@@ -6,6 +6,8 @@ has_children: true
 
 # ページごとの使い方
 
+[日本語](index.md) | [English](index_en.md)
+
 グラスは画面（ページ）ごとに使えるコマンドが決まっている。ここではページ単位に、開き方・
 送るもの・後片付けをまとめる。接続は済んでいて `CommandManager` を作ってある前提で書く。
 接続の手順は [Getting Started](../getting-started.md) を参照。

@@ -5,6 +5,8 @@ nav_order: 6
 
 # メソッドの追加履歴
 
+[日本語](api-history.md) | [English](api-history_en.md)
+
 どのメソッドがどのバージョンから使えるかの一覧。表にないメソッドは 0.0.10 以前からある。
 
 1.0.1 から Android / iOS を同じバージョンで配布している。iOS でも以下の API を利用できる。

@@ -6,6 +6,8 @@ has_children: true
 
 # Bluetooth コマンドリスト
 
+[日本語](bluetooth-commands.md) | [English](bluetooth-commands_en.md)
+
 SABERAグラスとBluetoothで通信するための公開コマンド仕様。
 
 ## 直接送信時の注意事項

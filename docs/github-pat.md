@@ -5,6 +5,8 @@ nav_order: 3
 
 # GitHub PAT の作り方
 
+[日本語](github-pat.md) | [English](github-pat_en.md)
+
 SDK は private な GitHub Packages で配布しているため、取得には Personal Access Token
 (PAT) が必要になる。ここではその発行手順をまとめる。
 
